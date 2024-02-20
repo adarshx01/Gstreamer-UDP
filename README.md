@@ -1,11 +1,6 @@
 # Gstreamer-UDP
 Streaming LIVE webcam feed using GStreamer . A Python-based GStreamer application for streaming video between a sender and receiver using UDP transmission over same network.  
 
-
-#  Streaming LIVE webcam feed using GStreamer 
-##  Introduction
-This repository provides a Python-based GStreamer application for streaming video between a sender and receiver.
-
 ##  Required:
 -  Linux System
 *  Ensure both sender and receiver are on the same network.
