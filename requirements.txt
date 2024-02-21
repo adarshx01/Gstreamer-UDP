@@ -1,8 +1,8 @@
-argparse
-subprocess
-shlex
-pyfiglet
 gstreamer1.0-tools
 vlc
 mplayer
 ffmpeg
+argparse
+shlex
+pyfiglet
+subprocess
